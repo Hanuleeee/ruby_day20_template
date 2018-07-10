@@ -1,16 +1,4 @@
-# 20180706_Day19
 
-### 복습
-
-* 기능을 구현하고자 할때, 그 과정들을 세분화하는 것이 중요하다.
-* 레일즈 프로젝트에서 ajax를 구현하기 위해서는 다음과 같은 순서를 갖는다.
-
-> * 모든 동작을 포함하는 js코드를 작성한다.
-> * ajax 코드를 작성한다.
-> * url을 지정한다.
-> * 해당 url을 *config/routes.rb* 에서 controller#action 을 지정한다.
-> * controller#action을 작성한다.
-> * *app/views/controller_name*에 action명과 일치하는 `js.erb` 파일을 작성한다.
 # 20180709_Day20
 
 
